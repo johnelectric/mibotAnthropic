@@ -1,0 +1,7 @@
+fastapi==0.109.1
+uvicorn==0.27.0
+anthropic==0.19.1
+PyPDF2==3.0.1
+python-multipart==0.0.6
+python-dotenv==1.0.0
+markdown2==2.4.10
