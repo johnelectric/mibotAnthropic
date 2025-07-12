@@ -1,6 +1,6 @@
 # Bot Local con Anthropic API
 
-Este bot escrito en python que utiliza la API de Anthropic para procesar mensajes y generar respuestas, con interface web, funciona en tu explorador.
+Este bot escrito en python utiliza la API de Anthropic para procesar mensajes y generar respuestas. Usa una interface web, funciona en tu explorador.
 Ademas puedes subir un pdf y analizarlo con la IA segun tus necesidades. 
 
 ## Instalación
